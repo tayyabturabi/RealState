@@ -1,0 +1,9 @@
+@font-face {
+    font-family:Pop-bold;
+    src: url(/Poppins/Poppins-Bold.ttf);
+}
+
+
+.mid-nav{
+    padding-left:20%;
+}
