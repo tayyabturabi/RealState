@@ -2,8 +2,48 @@
     font-family:Pop-bold;
     src: url(/Poppins/Poppins-Bold.ttf);
 }
+@font-face {
+    font-family:Pop-light;
+    src: url(/Poppins/Poppins-Light.ttf);
+}
+@font-face {
+    font-family:Pop-medium;
+    src: url(/Poppins/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family:Pop-regular;
+    src: url(/Poppins/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family:semi-bold;
+    src: url(/Poppins/Poppins-SemiBold.ttf);
+}
+
+.brand-name{
+    font-family: pop-bold;
+}
 
 
 .mid-nav{
     padding-left:20%;
+    
+}
+
+.nav-list{
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    padding: 0px 20px;
+}
+
+.side-nav{
+    /* padding-left:20%; */
+    /* background-color: rgb(42, 165, 85); */
+}
+
+.contact-btn{
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    padding: 0px 10px;
+    margin-left: 20px;
 }

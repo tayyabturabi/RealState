@@ -1,0 +1,62 @@
+@media only screen and (max-width:1199px) {
+
+    .mid-nav{
+        padding-left:0px;
+        
+        
+    }
+    
+}
+
+@media only screen and (max-width:991px) {
+
+    .side-nav{
+        
+        display: none!important;
+                     
+    }
+
+    .side-nav li{
+        margin: 0px auto!important;
+        
+                     
+    }
+
+    .mid-nav{
+        text-align: center;       
+    }
+
+    .contact-btn{
+        background-color: rgb(255, 255, 255);
+        border-radius: 50px;
+        width: 150px!important;
+        margin-bottom: 20px;
+
+      
+    }
+
+    .search-img{
+        display: none!important;
+    }
+
+    .hidden-item{
+        display: block!important;
+    }
+    
+}
+
+
+@media only screen and (max-width:1249px){
+
+    .hidden-item{
+        display:none!important;
+    }
+
+
+
+
+
+
+
+
+}
