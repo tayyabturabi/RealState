@@ -24,6 +24,13 @@
     font-family: pop-bold;
 }
 
+.mynavbar{
+    background: #FAFAFA!important;
+    border-radius: 50px;
+    height: 90px;
+
+}
+
 
 .mid-nav{
     padding-left:20%;
@@ -36,14 +43,158 @@
     padding: 0px 20px;
 }
 
-.side-nav{
-    /* padding-left:20%; */
-    /* background-color: rgb(42, 165, 85); */
-}
 
+.hidden-item{
+    display:none!important;
+    
+}
 .contact-btn{
     background-color: rgb(255, 255, 255);
     border-radius: 25px;
     padding: 0px 10px;
     margin-left: 20px;
+}
+
+.theme-slider{
+    height: 617px;
+    background-color:#FBD9B9;
+    margin-top: 50px;
+    padding: 0px!important;
+    border-radius: 20px;
+}
+
+.theme-div{
+        background: linear-gradient(90deg, #C1DEE8 0, transparent 99.04%) !important;
+        width: 100%!important;
+        height: 100%!important;
+        margin: 0px!important;
+        border-radius: 20px;
+        
+}
+
+.text-content{
+   
+    padding-left: 30px;
+    padding-top: 150px;
+}
+
+.img-content img{
+
+    width: 100%;
+    height: 100%;
+    margin-top: 80px;
+   
+}
+.theme-txt1{font-family: Pop-light;}
+.theme-heading{font-family: pop-bold;}
+.theme-txt2{
+    font-family: Pop-light;
+    font-size: 16px;
+    
+}
+
+
+.myform{
+    width:410px;
+    height:60px;
+    border-radius: 40px;
+
+}
+.btn-theme{
+    position: absolute;
+    border-radius: 40px;
+    height:60px;
+    width:150px;
+    margin-left: 260px;
+}
+
+.card-slider{
+    margin-top: 50px;
+}
+
+.card-slid-txt h1{
+    font-family: pop-bold;
+    text-align: center;
+}
+.card-slid-txt p{
+    font-family: pop-light;
+    text-align: center;
+}
+
+.card-box{
+    width: 329px;
+    height: 200px;
+    
+    padding-top:10px;
+}
+.card-box h6{
+font-family: semi-bold;
+margin-top: 5px;
+
+}
+
+
+.card-row{
+    margin-left: 32px;
+    column-gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card-row-2{
+    column-gap:20px;
+}
+
+.card-box-2{
+    background-color: rgba(190, 190, 190, 0.2);
+    width: 350px;
+    height: 400px;}
+    
+.card-box-2 h6{
+    margin-top: 20px;
+}
+
+.card-box-himg {
+text-align: center;
+padding-top: 20px;
+margin-bottom: 20px;
+
+}
+.card-box-himg img{
+    border: 1px solid grey;
+}
+
+.card-slid-txt2 h1{
+    font-family: pop-bold;
+
+}
+.card-slid-txt2 p{
+    font-family:Pop-medium ;
+}
+
+.bottom-theme{
+    height: 500px;
+    background-color:#FBD9B9;
+    margin-top: 50px;
+    padding: 0px!important;
+    border-radius: 20px;
+    
+}
+
+.theme-bottom-div{
+    background: linear-gradient(90deg, #C1DEE8 0, transparent 99.04%) !important;
+    width: 100%!important;
+    height: 100%!important;
+    margin: 0px!important;
+    border-radius: 20px;
+    
+
+
+}
+
+.img-content2 img{
+
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+   
 }
